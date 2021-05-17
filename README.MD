@@ -13,7 +13,7 @@
   </li>
   <li>Click on START.bat</li>
   <li>
-    PNG and HTML format of the graphs will be storead at "report" directory and
+    PNG and HTML format of the graphs will be stored at "report" directory and
     the naming convention will be according to the csv file name
   </li>
 </ol>
