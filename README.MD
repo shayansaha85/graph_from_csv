@@ -4,8 +4,6 @@
   <li>pandas</li>
   <li>matplotlib</li>
 </ol>
-
-<br />
 <br />
 <h1>How to use it?</h1>
 <ol>
