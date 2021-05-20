@@ -1,8 +1,8 @@
 <h1>Prerequisites for using this tool</h1>
 <ol>
-  <li>Python</li>
-  <li>pandas</li>
-  <li>matplotlib</li>
+  <li>Python : https://www.python.org</li>
+  <li>pandas : Use command : ```pip install pandas```</li>
+  <li>matplotlib : Use command : ```pip install pandas```</li>
 </ol>
 <br />
 <h1>How to use it?</h1>
