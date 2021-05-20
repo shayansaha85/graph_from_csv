@@ -2,7 +2,7 @@
 <ol>
   <li>Python : https://www.python.org</li>
   <li>pandas : Use command : <code>pip install pandas</code></li>
-  <li>matplotlib : Use command : <code>pip install pandas</code></li>
+  <li>matplotlib : Use command : <code>pip install matplotlib</code></li>
 </ol>
 <br />
 <h1>How to use it?</h1>
